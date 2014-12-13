@@ -8,5 +8,15 @@
     "48": "img/48.png",
     "128": "img/128.png"
   },
-  "manifest_version": 2
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+      "js": [
+        "js.js"
+      ],
+      "matches": [
+        "http://kickass.so/*"
+      ]
+    }
+  ]
 }
