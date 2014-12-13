@@ -18,5 +18,8 @@
         "http://kickass.so/*"
       ]
     }
+  ],
+  "web_accessible_resources": [
+    "highlight.js"
   ]
 }

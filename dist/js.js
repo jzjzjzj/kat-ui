@@ -1,3 +1,5 @@
+injectScript('highlight.js');
+
 function injectScript(path) {
   var script = document.createElement('script');
 
