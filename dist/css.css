@@ -1,3 +1,11 @@
+.data tbody tr.min {
+  background-color: #ffe433;
+}
+
+.data tbody tr.hour {
+  background-color: #ffe957;
+}
+
 .data tbody tr.hours {
   background-color: #ffee80;
 }
