@@ -1,3 +1,7 @@
+#tagcloud {
+  display: none;
+}
+
 .data tbody tr.min {
   background-color: #ffe433;
 }
