@@ -18,6 +18,7 @@
         "css.css"
       ],
       "matches": [
+        "https://kickass.to/*",
         "http://kickass.to/*"
       ]
     }
