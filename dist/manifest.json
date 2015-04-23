@@ -2,7 +2,7 @@
   "name": "KAT UI - Kickass Torrents Special",
   "short_name": "KAT UI",
   "description": "Improved user interface of KickassTorrents (kat).",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "icons": {
     "16": "img/16.png",
     "48": "img/48.png",
