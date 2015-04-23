@@ -18,6 +18,8 @@
         "css.css"
       ],
       "matches": [
+        "https://kickasstorrents.im/*",
+        "http://kickasstorrents.im/*",
         "https://kickass.to/*",
         "http://kickass.to/*"
       ]
