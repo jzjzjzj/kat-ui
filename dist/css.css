@@ -1,0 +1,35 @@
+#tagcloud {
+  display: none;
+}
+
+.data tbody tr.min {
+  background-color: #ffe433;
+}
+
+.data tbody tr.min:hover {
+  background-color: #f4d61b;
+}
+
+.data tbody tr.hour {
+  background-color: #ffe957;
+}
+
+.data tbody tr.hour:hover {
+  background-color: #f4db3f;
+}
+
+.data tbody tr.hours {
+  background-color: #ffee80;
+}
+
+.data tbody tr.hours:hover {
+  background-color: #f4e068;
+}
+
+.data tbody tr.day {
+  background-color: #fff5b3;
+}
+
+.data tbody tr.day:hover {
+  background-color: #f4e79b;
+}
